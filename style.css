@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(49, 49, 49);
+    font-stretch: extra-condensed;
+    font-family:'Courier New', Courier, monospace;
+    font-size:large;
+}
+p{
+    font-style: oblique;
+    color: rgb(133,133,133)
+}
+
+a {
+    font-style: oblique;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(133, 133, 133);
+}
+
+a:link {
+    text-decoration:solid;
+}
+
+a:hover {
+    color: rgb(68, 68, 68);
+}
+
+img{
+    align-content: 200px ,300px;
+}
